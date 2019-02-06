@@ -56,8 +56,7 @@ def site_map(url):
 
 # check if function works
 if __name__ == '__main__':
-    # site_map("https://hackaday.com") # True
-    site_map("https://www.ing.pl")
+    site_map("https://hackaday.com")
 
 
 
