@@ -35,6 +35,7 @@ convert_csv_data('input.csv', 'output.csv') # imports csv file, outputs processe
 
 ```
 
+Look at input.csv and output.csv file to see how script handles data.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
